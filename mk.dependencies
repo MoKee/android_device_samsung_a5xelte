@@ -2,5 +2,9 @@
     {
         "repository": "android_device_samsung_universal7580-common",
         "target_path": "device/samsung/universal7580-common"
+    },
+    {
+        "repository": "android_vendor_samsung_a5xelte",
+        "target_path": "vendor/samsung/a5xelte"
     }
 ]
